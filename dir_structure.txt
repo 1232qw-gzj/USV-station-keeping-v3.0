@@ -1,0 +1,71 @@
+卷 Windows-SSD 的文件夹 PATH 列表
+卷序列号为 B822-82C4
+C:.
+|   .gitignore
+|   complete_fix.bat
+|   config.yaml
+|   config_manager.py
+|   dir_structure.txt
+|   Fix lib init.py
+|   LICENSE
+|   pyproject.toml
+|   README.md
+|   setup.cfg
+|   __init__.py
+|   
++---.idea
+|   |   .gitignore
+|   |   .name
+|   |   misc.xml
+|   |   modules.xml
+|   |   PythonVehicleSimulator-master.iml
+|   |   vcs.xml
+|   |   workspace.xml
+|   |   
+|   \---inspectionProfiles
+|           profiles_settings.xml
+|           
++---src
+|   +---python_vehicle_simulator
+|   |   |   main_station_keeping.py
+|   |   |   plotresult.m
+|   |   |   plotview.m
+|   |   |   simulation_data.mat
+|   |   |   usv_simulation.log
+|   |   |   
+|   |   +---lib
+|   |   |   |   control.py
+|   |   |   |   gnc.py
+|   |   |   |   guidance.py
+|   |   |   |   __init__.py
+|   |   |   |   __init__.py.backup
+|   |   |   |   
+|   |   |   \---__pycache__
+|   |   |           control.cpython-312.pyc
+|   |   |           gnc.cpython-312.pyc
+|   |   |           guidance.cpython-312.pyc
+|   |   |           __init__.cpython-312.pyc
+|   |   |           
+|   |   +---vehicles
+|   |   |   |   otter.py
+|   |   |   |   otter_station_keeping.py
+|   |   |   |   __init__.py
+|   |   |   |   
+|   |   |   \---__pycache__
+|   |   |           otter.cpython-312.pyc
+|   |   |           otter_station_keeping.cpython-312.pyc
+|   |   |           __init__.cpython-312.pyc
+|   |   |           
+|   |   \---__pycache__
+|   |           config_manager.cpython-312.pyc
+|   |           
+|   \---python_vehicle_simulator.egg-info
+|           dependency_links.txt
+|           PKG-INFO
+|           requires.txt
+|           SOURCES.txt
+|           top_level.txt
+|           
+\---__pycache__
+        config_manager.cpython-312.pyc
+        
